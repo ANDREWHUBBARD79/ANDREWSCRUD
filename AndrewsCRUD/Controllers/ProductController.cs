@@ -19,9 +19,12 @@ namespace AndrewsCRUD.Controllers
             this.repo = repo;
         }
 
+        
         public IActionResult Index()
         {
-            return View();
+            var products = repo.GetAllProducts();
+
+            return View(products);
         }
 
         public IActionResult ViewProduct(int id)
