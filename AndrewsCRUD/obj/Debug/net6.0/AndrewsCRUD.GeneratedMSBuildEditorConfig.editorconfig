@@ -16,84 +16,76 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Owner\Desktop\repos\AndrewsCRUD\AndrewsCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEFib3V0LmNzaHRtbA==
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/AreaRugs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEFyZWFSdWdzLmNzaHRtbA==
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/AreaRugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcmVhUnVncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/BathroomMats.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEJhdGhyb29tTWF0cy5jc2h0bWw=
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/BathroomMats.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXRocm9vbU1hdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Blankets.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEJsYW5rZXRzLmNzaHRtbA==
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Blankets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbGFua2V0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Contacts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXENvbnRhY3RzLmNzaHRtbA==
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Cups.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEN1cHMuY3NodG1s
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Cups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXBzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Hats.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEhhdHMuY3NodG1s
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Hats.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/History.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEhpc3RvcnkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Miscelanious.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXE1pc2NlbGFuaW91cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Mugs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXE11Z3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/PetBeds.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFBldEJlZHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFByaXZhY3kuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/ShowerCurtains.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFNob3dlckN1cnRhaW5zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/Sweatshirts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFN3ZWF0c2hpcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/TermsOfService.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFRlcm1zT2ZTZXJ2aWNlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/TShirts.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFRTaGlydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Home/WallPictures.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lXFdhbGxQaWN0dXJlcy5jc2h0bWw=
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3J5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Miscelanious.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaXNjZWxhbmlvdXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Mugs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNdWdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/PetBeds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXRCZWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/ShowerCurtains.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93ZXJDdXJ0YWlucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/Sweatshirts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTd2VhdHNoaXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/TermsOfService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtc09mU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/TShirts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUU2hpcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Home/WallPictures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYWxsUGljdHVyZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Product/Index.cshtml]
@@ -114,10 +106,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Shared/SharedLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNoYXJlZExheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Owner/Desktop/repos/AndrewsCRUD/AndrewsCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
